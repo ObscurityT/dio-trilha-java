@@ -6,3 +6,6 @@
 /target/
 /out/
 /.idea/
+
+#Visual Studio Code
+.vscode/
