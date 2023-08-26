@@ -1,0 +1,8 @@
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+/bin/
+/target/
+/out/
+/.idea/
